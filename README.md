@@ -4,4 +4,5 @@ This is my personal portfolio site. The live version can be found at [reillyvill
 
 ![portfolio-screenshot](./portfolio.png)
 
-The theme is a Wordpress theme called Instant from [blacktie.co](http://blacktie.co) designed by Carlos Alvarez.
+
+This site uses a Wordpress theme called Instant from [blacktie.co](http://blacktie.co) designed by [Carlos Alvarez](http://www.alvarez.is/).

@@ -226,15 +226,37 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-.gallery img:hover {
+/*.gallery img:hover {
 	opacity: 0.4;
+}*/
+
+.fix{
+  width:100%;
+  padding:0px;
+  color: rgba(0, 0, 0, 0);
 }
 
-.fix{width:100%; padding:0px;}
+.fix:hover{
+  opacity: 0.4;
+  color: #FFFFFF;
+}
 
-.overlay-desc {
+.overlay {
   position: absolute;
-  bottom: 0;
+  bottom: 50%;
+  width: 100%;
+  color: inherit;
+}
+
+
+.overlay-desc1 {
   font-size: 30px;
   font-size: 5.5vw;
+  color: inherit;
+}
+
+.overlay-desc2 {
+  font-size: 30px;
+  font-size: 4.5vw;
+  color: inherit;
 }
